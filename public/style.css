@@ -1,0 +1,28 @@
+
+header{
+    background-color: blanchedalmond;
+}
+section{
+    display: flex;
+    margin: 0;
+}
+aside{
+    flex: 30%;
+    background-color: rgb(209, 172, 116);
+}
+main{
+    flex: 70%;
+    background-color: rgb(238, 207, 162);
+}
+img{
+    display: block;
+    margin: auto;
+}
+h1, p, h2, h3{
+    text-align: center;
+}
+h4{
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(206, 183, 148);
+}

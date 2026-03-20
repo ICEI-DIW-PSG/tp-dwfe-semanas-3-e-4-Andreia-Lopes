@@ -1,8 +1,9 @@
 # Trabalho Prático - Semanas 3 e 4
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Andréia Lopes do Couto Santos
+- Matricula: 924726
+
 
 ## Print da tela da página criada (Curriculum Vitae)
 
